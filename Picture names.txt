@@ -1,0 +1,342 @@
+Names for your own gun and enemy pictures (put them in the mod images folder: cod25 > kronos > mods > phantom_menu > images; size 512 x 256):
+  gun:   gp_<id without sat_>.png   e.g. gp_ar_kiwi.png
+  enemy: zp_<enemy id>.png          e.g. zp_sat_spawner_zombie_karkinos_ob.png
+
+BO7 gun IDs and in-game names (Phantom menu Weapons pages, 73 total)
+The game ID is sat_<type>_<name>; in game it is usually that plus _mp or _zm (e.g. sat_ar_kiwi_mp).
+Names read off the menu, which shows each gun's own in-game name.
+
+=== ASSAULT RIFLES (13) ===
+sat_ar_albatross              AN-94
+sat_ar_condor                 Peacekeeper Mk1
+sat_ar_eagle                  MXR-17
+sat_ar_egret                  EGRT-17
+sat_ar_emu                    TR51 Para
+sat_ar_falcon                 X9 Maverick
+sat_ar_hawk                   M15 Mod 0
+sat_ar_heron                  Voyak KT-3
+sat_ar_kite                   AK-27
+sat_ar_kiwi                   VX Compact
+sat_ar_macaw                  Maddox RFB
+sat_ar_vulture                DS20 Mirage
+sat_ar_wren                   FG42
+
+=== SMGS (15) ===
+sat_sm_bear                   VST
+sat_sm_bengal                 Sturmwolf 45
+sat_sm_civet                  VMP
+sat_sm_cobra                  MPC-25
+sat_sm_gecko                  REV-46
+sat_sm_hyena                  Kogot-7
+sat_sm_komodo                 Razor 9mm
+sat_sm_mammoth                The Dreadful Dresden
+sat_sm_marmot                 CBRS-3
+sat_sm_orca                   Ryden 45K
+sat_sm_otter                  RK-9
+sat_sm_puma                   Carbon 57
+sat_sm_serval                 Gremlin
+sat_sm_stoat                  Bloodthirsty Papasha
+sat_sm_zebra                  Dravec 45
+
+=== LMGS (4) ===
+sat_lm_hades                  MK.78
+sat_lm_hildr                  Mammoth
+sat_lm_typhon                 Sokol 545
+sat_lm_zeus                   XM325
+
+=== SHOTGUNS (5) ===
+sat_sh_akita                  Akita
+sat_sh_corso                  M10 Breacher
+sat_sh_husky                  Echo 12
+sat_sh_shepherd               SG-12
+sat_sh_terrier                Stormwrought Pantheon
+
+=== MARKSMAN RIFLES (6) ===
+sat_dm_kara                   M34 Novaline
+sat_dm_oman                   Warden 308
+sat_dm_samar                  KRS-7.62
+sat_dm_scotia                 M8A1
+sat_dm_solomon                Swordfish A1
+sat_dm_tasman                 The Miserable Bastilla
+
+=== SNIPER RIFLES (5) ===
+sat_sn_aden                   Hawker HX
+sat_sn_baltic                 XR-3 Ion
+sat_sn_caspian                Shadow SX
+sat_sn_coral                  Strider 300
+sat_sn_drake                  VS Recon
+
+=== PISTOLS (4) ===
+sat_pi_alcor                  1911
+sat_pi_atlas                  CODA 9
+sat_pi_orion                  Velox 5.7
+sat_pi_timir                  Jager 45
+
+=== LAUNCHERS (2) ===
+sat_la_fang                   AAROW 109
+sat_la_polis                  A.R.C. M1
+
+=== MELEE (9) ===
+sat_me_ballisticknife         Ballistic Knife
+sat_me_castor                 Mace
+sat_me_elnath                 Path of Sorrows
+sat_me_knife                  Knife
+sat_me_maru                   Executioner's Duet
+sat_me_nashira                Katana
+sat_me_saiph                  H311-SAW
+sat_me_shockbaton             Flatline Mk.II
+sat_me_wasat                  Arcblade
+
+=== WONDER WEAPONS (8) ===
+sat_ww_raygun                 Ray Gun
+sat_ww_raygunmark2            Ray Gun Mk2
+sat_ww_firefly                Necrofluid
+sat_ww_hornet                 Nekomancer
+sat_ww_locust                 Jotunn Star
+sat_ww_mantis                 Blundergat
+sat_ww_ruby                   LGM-1
+sat_ww_scarab                 Warden's Blight
+
+=== SCORESTREAK WEAPONS (2) - own page in the menu ===
+sat_ar_finch                  (no in-game name)
+sat_pi_handcannon             (no in-game name)
+
+
+BO7 Zombies enemy IDs (223 total)
+Grouped the same way as the Phantom menu Spawn page.
+Not every type spawns on every map - the menu only shows the ones the map has loaded.
+
+=== BOSSES (23) ===
+sat_spawner_boss_pops_zm
+sat_spawner_zombie_abom_mega_hvt_ob
+sat_spawner_zombie_abom_mega_ob_champion
+sat_spawner_zombie_abom_mega_ob_ztron
+sat_spawner_zombie_amalgam_ob_boss
+sat_spawner_zombie_amalgam_ob_champion
+sat_spawner_zombie_boss_virgil_zm
+sat_spawner_zombie_callisto_boss_ob
+sat_spawner_zombie_deathworm_boss_ob
+sat_spawner_zombie_disciple_skoll_ob_champion
+sat_spawner_zombie_galileo_boss_ob
+sat_spawner_zombie_ghoul_ob_boss
+sat_spawner_zombie_mangler_hvt_ob_champion
+sat_spawner_zombie_mangler_ob_boss
+sat_spawner_zombie_mangler_ob_champion
+sat_spawner_zombie_mangler_ob_worldbossguard
+sat_spawner_zombie_mimic_hvt_ob_champion
+sat_spawner_zombie_mimic_ob_champion
+sat_spawner_zombie_mimic_ob_worldbossguard
+sat_spawner_zombie_neptune_boss_ob
+sat_spawner_zombie_viper_boss_ob
+sat_spawner_zombie_viper_mini_boss_ob
+sat_spawner_zombie_wither_zm_boss_fight
+
+=== HVTs (36) ===
+sat_spawner_zombie_abom_hvt_zm
+sat_spawner_zombie_abom_hvt_zm_echo
+sat_spawner_zombie_abom_toxic_hvt_ob
+sat_spawner_zombie_amalgam_zm_hvt
+sat_spawner_zombie_amalgam_zm_hvt_echo
+sat_spawner_zombie_base_abom_crawler_hvt_ob
+sat_spawner_zombie_base_luna_hvt
+sat_spawner_zombie_callisto_hvt_nm
+sat_spawner_zombie_callisto_hvt_zm
+sat_spawner_zombie_callisto_hvt_zm_melee
+sat_spawner_zombie_callisto_hvt_zm_relic
+sat_spawner_zombie_disciple_hvt_ob
+sat_spawner_zombie_disciple_hvt_storm_caller
+sat_spawner_zombie_disciple_skoll_hvt
+sat_spawner_zombie_disciple_skoll_hvt_zm
+sat_spawner_zombie_galileo_hvt_ob_nm
+sat_spawner_zombie_ghoul_hvt_zm
+sat_spawner_zombie_ghoul_hvt_zm_echo
+sat_spawner_zombie_ghoul_hvt_zm_relic
+sat_spawner_zombie_karkinos_hvt
+sat_spawner_zombie_loom_hvt
+sat_spawner_zombie_mangler_hvt_ob
+sat_spawner_zombie_mangler_hvt_zm
+sat_spawner_zombie_methone_zm_hvt
+sat_spawner_zombie_mimic_hvt_emp_zm
+sat_spawner_zombie_mimic_hvt_ob
+sat_spawner_zombie_mimic_hvt_zm
+sat_spawner_zombie_orion_hvt_zm
+sat_spawner_zombie_orion_hvt_zm_hornet_mq
+sat_spawner_zombie_orion_hvt_zm_hornet_sq
+sat_spawner_zombie_orion_hvt_zm_hornet_sq_static
+sat_spawner_zombie_viper_hvt
+sat_spawner_zombie_viper_hvt_ob
+sat_spawner_zombie_viper_hvt_zm
+sat_spawner_zombie_viper_mini_hvt_ob
+sat_spawner_zombie_viper_mini_hvt_zm
+
+=== ELITES / SPECIALS (82) ===
+sat_spawner_zombie_abom_ob
+sat_spawner_zombie_abom_zm
+sat_spawner_zombie_aeon_zm
+sat_spawner_zombie_amalgam_ob
+sat_spawner_zombie_amalgam_ob_falkner
+sat_spawner_zombie_amalgam_ob_nm
+sat_spawner_zombie_amalgam_zm
+sat_spawner_zombie_callisto_mp
+sat_spawner_zombie_callisto_ob
+sat_spawner_zombie_callisto_zm
+sat_spawner_zombie_deathworm_ob
+sat_spawner_zombie_diana_zm
+sat_spawner_zombie_diana_zm_assault_rounds
+sat_spawner_zombie_disciple_ob
+sat_spawner_zombie_disciple_ob_elite
+sat_spawner_zombie_disciple_skoll_ob
+sat_spawner_zombie_disciple_skoll_ob_falkner
+sat_spawner_zombie_disciple_skoll_zm
+sat_spawner_zombie_disciple_zm
+sat_spawner_zombie_galileo_drone_ob
+sat_spawner_zombie_galileo_drone_ob_nm
+sat_spawner_zombie_galileo_drone_zm
+sat_spawner_zombie_galileo_zm
+sat_spawner_zombie_ghoul_ob
+sat_spawner_zombie_ghoul_ob_elite
+sat_spawner_zombie_ghoul_ob_falkner
+sat_spawner_zombie_ghoul_ob_nm
+sat_spawner_zombie_ghoul_quarantine_zone
+sat_spawner_zombie_ghoul_zm
+sat_spawner_zombie_ghoul_ztron
+sat_spawner_zombie_hermes_zm
+sat_spawner_zombie_karkinos_mp
+sat_spawner_zombie_karkinos_zm
+sat_spawner_zombie_loom_minion_zm
+sat_spawner_zombie_loom_zm
+sat_spawner_zombie_mangler_ob
+sat_spawner_zombie_mangler_ob_elite
+sat_spawner_zombie_mangler_ob_falkner
+sat_spawner_zombie_mangler_zm
+sat_spawner_zombie_methone_fire_mp
+sat_spawner_zombie_methone_fire_zm
+sat_spawner_zombie_methone_mp
+sat_spawner_zombie_methone_mp_infect
+sat_spawner_zombie_methone_zm
+sat_spawner_zombie_mimic_emp_mp
+sat_spawner_zombie_mimic_emp_zm
+sat_spawner_zombie_mimic_ob
+sat_spawner_zombie_mimic_ob_elite
+sat_spawner_zombie_mimic_ob_elite_portal_guard
+sat_spawner_zombie_mimic_ob_falkner
+sat_spawner_zombie_mimic_zm
+sat_spawner_zombie_mimic_zm_ztron
+sat_spawner_zombie_neptune_zm
+sat_spawner_zombie_orion_ob
+sat_spawner_zombie_orion_zm
+sat_spawner_zombie_orion_zm_static
+sat_spawner_zombie_parasite_ob
+sat_spawner_zombie_parasite_ob_sm
+sat_spawner_zombie_parasite_zm
+sat_spawner_zombie_phobos_ob
+sat_spawner_zombie_phobos_zm
+sat_spawner_zombie_shade_mp
+sat_spawner_zombie_shade_zm
+sat_spawner_zombie_shade_zm_locust_irradiated
+sat_spawner_zombie_shade_zm_ruby_ee_bongo
+sat_spawner_zombie_uranus_zm
+sat_spawner_zombie_vermin_ob
+sat_spawner_zombie_vermin_ob_sm
+sat_spawner_zombie_vermin_ob_sm_aries
+sat_spawner_zombie_vermin_ob_sm_melee
+sat_spawner_zombie_vermin_zm
+sat_spawner_zombie_viper_mini_ob
+sat_spawner_zombie_viper_mini_zm
+sat_spawner_zombie_viper_zm
+sat_spawner_zombie_weyward_stinger_zm
+sat_spawner_zombie_weyward_zm
+sat_spawner_zombie_wither_zm
+sat_spawner_zombie_wither_zm_bomb
+sat_spawner_zombie_wither_zm_downed
+sat_spawner_zombie_wither_zm_scpq
+sat_spawner_zombie_wither_zm_shadow
+sat_spawner_zombie_wither_zm_shadow_mq
+
+=== ARMORED (18) ===
+sat_spawner_zombie_base_armored_agni_zm
+sat_spawner_zombie_base_armored_heavy_ob
+sat_spawner_zombie_base_armored_heavy_sm
+sat_spawner_zombie_base_armored_heavy_sm_blind
+sat_spawner_zombie_base_armored_heavy_sm_friend
+sat_spawner_zombie_base_armored_heavy_zm
+sat_spawner_zombie_base_armored_heavy_zm_hornet
+sat_spawner_zombie_base_armored_heavy_zm_locust
+sat_spawner_zombie_base_armored_heavy_zm_mantis
+sat_spawner_zombie_base_armored_heavy_zm_scarab
+sat_spawner_zombie_base_armored_light_ob
+sat_spawner_zombie_base_armored_light_sm_blind
+sat_spawner_zombie_base_armored_light_sm_friend
+sat_spawner_zombie_base_armored_light_zm
+sat_spawner_zombie_base_armored_light_zm_hornet
+sat_spawner_zombie_base_armored_light_zm_locust
+sat_spawner_zombie_base_armored_light_zm_mantis
+sat_spawner_zombie_base_armored_light_zm_scarab
+
+=== HOUNDS (3) ===
+sat_spawner_zombie_hellhound_zm
+sat_spawner_zombie_hellhound_zm_hornet_mq
+sat_spawner_zombie_methone_fire_zm_hellping_hound
+
+=== NORMAL ZOMBIES (61) ===
+sat_spawner_zombie_base_abom_crawler_zm
+sat_spawner_zombie_base_firefly_mechanic
+sat_spawner_zombie_base_firefly_trucker
+sat_spawner_zombie_base_firefly_waitress
+sat_spawner_zombie_base_firefly_weaver
+sat_spawner_zombie_base_luna_ob
+sat_spawner_zombie_base_luna_zm
+sat_spawner_zombie_base_mantis_fem_husk
+sat_spawner_zombie_base_mantis_husk
+sat_spawner_zombie_base_mp
+sat_spawner_zombie_base_ob
+sat_spawner_zombie_base_ob_aries
+sat_spawner_zombie_base_ob_aries_unknown
+sat_spawner_zombie_base_ob_falkner
+sat_spawner_zombie_base_ob_friend
+sat_spawner_zombie_base_ob_harrow
+sat_spawner_zombie_base_ob_mannequin
+sat_spawner_zombie_base_ob_scorpio
+sat_spawner_zombie_base_sm
+sat_spawner_zombie_base_sm_blind
+sat_spawner_zombie_base_sm_blind_hh
+sat_spawner_zombie_base_sm_friend
+sat_spawner_zombie_base_sm_gemini
+sat_spawner_zombie_base_toxic_ob
+sat_spawner_zombie_base_toxic_zm
+sat_spawner_zombie_base_zm
+sat_spawner_zombie_base_zm_firefly
+sat_spawner_zombie_base_zm_firefly_cabin
+sat_spawner_zombie_base_zm_firefly_cook
+sat_spawner_zombie_base_zm_firefly_dempsey
+sat_spawner_zombie_base_zm_firefly_diner
+sat_spawner_zombie_base_zm_firefly_facility
+sat_spawner_zombie_base_zm_firefly_farm
+sat_spawner_zombie_base_zm_firefly_janus
+sat_spawner_zombie_base_zm_firefly_sunken
+sat_spawner_zombie_base_zm_hornet
+sat_spawner_zombie_base_zm_hornet_lava_garden
+sat_spawner_zombie_base_zm_hornet_mq_acc_g
+sat_spawner_zombie_base_zm_hornet_mq_acc_m
+sat_spawner_zombie_base_zm_hornet_mq_acc_n
+sat_spawner_zombie_base_zm_hornet_mq_simon
+sat_spawner_zombie_base_zm_hornet_mq_simon_h
+sat_spawner_zombie_base_zm_hornet_mq_simon_k
+sat_spawner_zombie_base_zm_hornet_mq_simon_o
+sat_spawner_zombie_base_zm_hornet_mq_simon_s
+sat_spawner_zombie_base_zm_hornet_mq_simon_t
+sat_spawner_zombie_base_zm_hornet_mq_sus_m
+sat_spawner_zombie_base_zm_hornet_sq_samurai
+sat_spawner_zombie_base_zm_locust
+sat_spawner_zombie_base_zm_locust_olaf
+sat_spawner_zombie_base_zm_lw
+sat_spawner_zombie_base_zm_lw_hung
+sat_spawner_zombie_base_zm_mantis
+sat_spawner_zombie_base_zm_mantis_cin
+sat_spawner_zombie_base_zm_mantis_lw
+sat_spawner_zombie_base_zm_mantis_past
+sat_spawner_zombie_base_zm_mantis_piano_teacher
+sat_spawner_zombie_base_zm_ruby
+sat_spawner_zombie_base_zm_ruby_mars
+sat_spawner_zombie_base_zm_scarab
+sat_spawner_zombie_base_zm_ztron
